@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 
 Giovanna
 Mateus
 Hiro
+=======
+Giovanna
+Mateus
+Miro
+>>>>>>> 360c374 (Adicionando pasta de JS)
 Gilberto
 Samira
