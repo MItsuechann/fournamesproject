@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Giovanna
 Mateus
@@ -8,5 +9,15 @@ Giovanna
 Mateus
 Miro
 >>>>>>> 360c374 (Adicionando pasta de JS)
+=======
+Giovanna
+Mateus
+Hiro
+Gilberto
+Samira
+Giovanna
+Mateus
+Hiro
+>>>>>>> e1faf67 (Primeiro commit da pasta Java)
 Gilberto
 Samira
